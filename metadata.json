@@ -1,0 +1,5 @@
+{
+  "name": "Max Healthcare Clone",
+  "description": "A responsive clone of the Max Healthcare website homepage, built with React, TypeScript, and Tailwind CSS. Features sections like an interactive hero banner, top specialities, awards, and testimonials.",
+  "requestFramePermissions": []
+}
